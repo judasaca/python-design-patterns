@@ -1,0 +1,16 @@
+{
+  "1": {
+    "life": 400,
+    "speed": 5,
+    "attack_power": 3,
+    "attack_range": 1,
+    "weapon": "short sword"
+  },
+  "2": {
+    "life": 400,
+    "speed": 5,
+    "attack_power": 6,
+    "attack_range": 2,
+    "weapon": "long sword"
+  }
+}
